@@ -1,10 +1,19 @@
 # Book-Store-Project
 project is based on spring boot , crud operations.
 
-![image](https://github.com/raghuvirm123/Book-Store-Project/assets/122218847/4d4189c6-5022-4fae-9328-a2623e2ac1b0)
-![image](https://github.com/raghuvirm123/Book-Store-Project/assets/122218847/fe57b7b3-8c32-433c-bd86-a805ff7bec1a)
-![image](https://github.com/raghuvirm123/Book-Store-Project/assets/122218847/82a31cbe-60d5-41f5-93c0-3dbe97417483)
-![image](https://github.com/raghuvirm123/Book-Store-Project/assets/122218847/d868d05d-73cf-4296-94cd-37d294fd1730)
+Home Page:
+![image](https://github.com/raghuvirm123/Book-Store-Project/assets/122218847/36c75026-416f-4a5f-9533-3a93afe0f8ee)
+
+Available Books:
+![image](https://github.com/raghuvirm123/Book-Store-Project/assets/122218847/14a8b981-5137-4e91-99dd-30a523a43af4)
+
+Perchased Books:
+![image](https://github.com/raghuvirm123/Book-Store-Project/assets/122218847/07994809-4c66-4435-bb0c-6806fcab0bb4)
+
+Add New Books in store:
+![image](https://github.com/raghuvirm123/Book-Store-Project/assets/122218847/bf747679-c308-449b-8d7c-8f8f922c92cb)
+
+
 
 
 
